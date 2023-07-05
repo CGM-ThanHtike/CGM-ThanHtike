@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&width=1140&height=40&lines=I+am+a+Communicator+(Front-end+Developer);%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC%EF%BC%88%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E9%96%8B%E7%99%BA%E8%80%85%EF%BC%89%E3%81%A7%E3%81%99;I+am+currently+learning+Javascript+and+Laravel;%E7%8F%BE%E5%9C%A8JavaScript%E3%81%A8%E3%83%A9%E3%83%A9%E3%83%99%E3%83%AB%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD;I+can+communicate+with+both+English+and+Japanese;%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A8%E8%8B%B1%E8%AA%9E%E3%81%AE%E4%B8%A1%E6%96%B9%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E5%8F%96%E3%82%8C%E3%81%BE%E3%81%99)](https://git.io/typing-svg)
 
-At present, I am employed as a Front-End Developer (Communicator) at a renowned Japanese offshore company. My educational background includes 5 years of immersive study in Japan, equipping me with strong proficiency in both English and Japanese. Apart from my existing skills, I am currently expanding my technical knowledge by studying JavaScript and Laravel, aiming to strengthen my Front-End development capabilities and acquire robust Back-End skills.
+At present, I am employed as a Front-End Developer (Communicator) at a renowned Japanese offshore company. My educational background includes 5 years of immersive study in Japan, equipping me with strong proficiency in both English and Japanese. Apart from my existing skills, I am currently expanding my technical knowledge by studying UI/UX design JavaScript and Laravel, aiming to strengthen my Front-End development capabilities and acquire robust Back-End skills.
 
-現在、日本の海外子会社でフロントエンド開発者（コミュニケーター）として働いています。以前に日本で５年間ほど留学した経験があり、日本語で円滑にコミュニケーションが取れます。JLPTのN-1のレベルの日本語力を持っています。現在はフロントエンドとバックエンドのスキルを向上させるため、JavaScriptとLaravelの学習に取り組んでいます。どうぞよろしくお願いいたします。
+現在、日本の海外子会社でフロントエンド開発者（コミュニケーター）として働いています。以前に日本で５年間ほど留学した経験があり、日本語で円滑にコミュニケーションが取れます。JLPTのN-1のレベルの日本語力を持っています。フロントエンドとバックエンドのスキルを向上させるため、UI/UX デザイン、JavaScriptとLaravelの学習に取り組んでいます。どうぞよろしくお願いいたします。
 
 ### 🙋‍♂ Introduction
 
 - 🔭 I’m currently working on ... small front-end projects
-- 🌱 I’m currently learning ... Javascript, Laravel
+- 🌱 I’m currently learning ... UI/UX design,Javascript, Laravel
 - 💬 Ask me about ... Anything..
 <!--- 💼 I'm open to freelancing projects.
  - 📫 How to reach me: ... 
