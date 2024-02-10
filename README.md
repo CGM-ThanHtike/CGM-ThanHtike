@@ -33,11 +33,12 @@ At present, I am employed as a Front-End Developer (Communicator) at a renowned 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Vs Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
----
+<br>
 
-### 💁‍♂️ Visitors Count
+---
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CGM-ThanHtike}/count.svg" /></p> 
 <br></div>
+</div>
